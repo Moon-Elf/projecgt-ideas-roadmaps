@@ -1,8 +1,3 @@
-Here's a **README.md** with a roadmap for both ideas. Each roadmap is broken down into phases with suggested tasks and milestones.
-
----
-
-# README
 
 ## Hackathon Project: Eco-Innovate - Green Building Materials Exchange & Circular Economy Product Lifecycle Tracker
 
